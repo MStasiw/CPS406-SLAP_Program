@@ -16,7 +16,7 @@ public class Main extends JFrame {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Sample (Test) Accounts with credentials for purpose of demoing
 		Account testStudent = new Student("Student1", "Test", "student", "student");
 		Account testStaff = new Instructor("Instructor1", "Test", "instructor", "instructor");
 		Account testAdmin = new Administrator("Administrator1", "Test", "admin", "admin");
